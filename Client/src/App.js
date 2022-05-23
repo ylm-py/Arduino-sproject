@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import socketIOClient from "socket.io-client";
-import Students from "./Compenents/Students.js"
+import Students from "./Components/Students.js"
 import axios from "axios";
 import './index.css'
 const ENDPOINT = "http://localhost:4001";
