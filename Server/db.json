@@ -1,0 +1,68 @@
+{
+  "students": [
+    {
+      "profilePicture": "pic1",
+      "name": "Name",
+      "lastName": "LastName",
+      "uid": "23CC2099",
+      "id": 4,
+      "isCurrentlyPresent": true
+    },
+    {
+      "profilePicture": "pic2",
+      "name": "Name",
+      "lastName": "LastName",
+      "uid": "53842794",
+      "id": 3,
+      "isCurrentlyPresent": true
+    },
+    {
+      "profilePicture": "uknown",
+      "name": "Name",
+      "lastName": "LastName",
+      "uid": "E4B953E3",
+      "id": 2,
+      "isCurrentlyPresent": false
+    },
+    {
+      "profilePicture": "uknown",
+      "name": "name2",
+      "lastName": "lastname2",
+      "uid": "FFFFFFFF",
+      "id": 5,
+      "isCurrentlyPresent": false
+    },
+    {
+      "profilePicture": "uknown",
+      "name": "name3",
+      "lastName": "lastname3",
+      "uid": "FFFFFFFF",
+      "id": 6,
+      "isCurrentlyPresent": false
+    },
+    {
+      "profilePicture": "uknown",
+      "name": "name4",
+      "lastName": "lastname4",
+      "uid": "FFFFFFFF",
+      "id": 8,
+      "isCurrentlyPresent": false
+    },
+    {
+      "profilePicture": "uknown",
+      "name": "name5",
+      "lastName": "lastname5",
+      "uid": "FFFFFFFF",
+      "id": 12,
+      "isCurrentlyPresent": false
+    },
+    {
+      "profilePicture": "uknown",
+      "name": "name6",
+      "lastName": "lastname6",
+      "uid": "FFFFFFFF",
+      "id": 11,
+      "isCurrentlyPresent": false
+    }
+  ]
+}
